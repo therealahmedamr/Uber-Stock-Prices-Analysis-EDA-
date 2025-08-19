@@ -54,12 +54,12 @@ Power BI (optional add-on) → Interactive dashboard for stock trends.
    -High vs Low price ranges.
    <img width="988" height="545" alt="image" src="https://github.com/user-attachments/assets/f200932f-ebf1-4125-a3ef-60f8a36e79c3" />
    -Correlation heatmap between Open, High, Low, Close, Volume.
-<img width="577" height="503" alt="image" src="https://github.com/user-attachments/assets/e5f26efb-c0e1-4dff-aaf4-ab351c6a5ac2" />
+   <img width="577" height="503" alt="image" src="https://github.com/user-attachments/assets/e5f26efb-c0e1-4dff-aaf4-ab351c6a5ac2" />
 
 4. Growth Analysis
-   -Calculate % growth of Tesla stock over the dataset period.
-<img width="850" height="468" alt="image" src="https://github.com/user-attachments/assets/0c207562-63b2-4c07-ac81-77f085484714" />
-<img width="1001" height="545" alt="image" src="https://github.com/user-attachments/assets/85e0fbef-c9e9-43bc-9674-b18acac92549" />
+   -Calculate % growth of Uber stock over the dataset period.
+   <img width="850" height="468" alt="image" src="https://github.com/user-attachments/assets/0c207562-63b2-4c07-ac81-77f085484714" />
+   <img width="1001" height="545" alt="image" src="https://github.com/user-attachments/assets/85e0fbef-c9e9-43bc-9674-b18acac92549" />
 
 
 
